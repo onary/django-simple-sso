@@ -5,7 +5,7 @@ from simple_sso import __version__
 
 
 REQUIREMENTS = [
-    'Django>=2.2',
+    'Django>=1.9',
     'itsdangerous<1.0.0',
     'webservices[django]',
 ]
